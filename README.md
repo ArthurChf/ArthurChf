@@ -27,9 +27,9 @@
 <h2>📧 Contact</h2>
 <p>Je reste ouvert à toute proposition de collaboration. Pour discuter de projets ou d'idées, n'hésitez pas à m'envoyer un message sur <b><a href="https://www.linkedin.com/in/arthur-chaff/">LinkedIn</a></b>.</p>
 <h2>📊 Statistiques et activité</h2>
-<img src="https://komarev.com/ghpvc/?username=arthurc0&label=Vues&color=0e75b6&style=flat" alt="Vues" />
+<img src="https://komarev.com/ghpvc/?username=ArthurChf&label=Vues&color=0e75b6&style=flat" alt="Vues" />
 <br/>
-<img alt="Arthur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Arthurc0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<img alt="Arthur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Arthurc0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Arthur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ArthurChf&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Arthur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ArthurChf&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 <br/>
-<img alt="Arthur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Arthurc0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+<img alt="Arthur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ArthurChf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
